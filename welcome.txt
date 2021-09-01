@@ -3,4 +3,6 @@ this is the default first branch created by git when you run git init
 
 chech the log of this branch you should see a commit with message "initial commit"
 
+Git tutorial rohith
+
 checkout to add-commit branch
